@@ -7,6 +7,9 @@ Train your model based on your data (PDF, Docs, Text, etc)
 #### 3. Run this command to convert the data `!python ingest.py`
 #### 4. Run this command to train and inference the model `!python PrivateGPT.py`
 
+![image](https://github.com/vishwas7860/Custom_GPT/assets/61090712/5c903dd1-a5f7-490f-bbc6-a016bc72d63c)
+
+
 
 # Data Scraping
 ### I scraped the Doctor Profile data from the most popular Hospital's website
